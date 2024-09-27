@@ -1,0 +1,10 @@
+.SearchBoxLabel{
+  display: flex;
+  justify-content: flex-start;
+}
+.SearchBoxInput{
+  width: 275px;
+}
+.SearchBoxContainer{
+  margin-top: 15px;
+}

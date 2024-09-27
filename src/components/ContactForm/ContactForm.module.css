@@ -1,0 +1,26 @@
+.ContactForm{
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 3%;
+  width: 350px;
+}
+.ContactBox{
+  display: flex;
+  flex-direction: column;
+}
+.ContactLabel{
+  display: flex;
+  justify-content: flex-start;
+}
+.ContactInput{
+  height: 30px;
+}
+.ContactButton{
+  width: 130px;
+  height: 40px;
+  margin: 0 auto;
+  border: 1px solid rgb(54, 53, 53);
+  border-radius: 5%;
+  margin-top: 15px;
+  background-color: rgb(238, 235, 235);
+}
